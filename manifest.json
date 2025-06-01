@@ -7,7 +7,7 @@
     "options": {
         "query_debounce": 0.3
     },
-    "default_keyword": "gpt",
+    "default_keyword": "c",
     "requirements": ["requests"],
     "required_api_version": "2.0.0"
 }
