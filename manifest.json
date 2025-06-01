@@ -1,0 +1,12 @@
+{
+    "name": "ChatGPT",
+    "description": "Spørg ChatGPT direkte i Ulauncher",
+    "developer_name": "Bruger",
+    "icon": "images/icon.png",
+    "options": {
+        "query_debounce": 0.3
+    },
+    "default_keyword": "c",
+    "requirements": ["requests"],
+    "api_version": 2
+}
