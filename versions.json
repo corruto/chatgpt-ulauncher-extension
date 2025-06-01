@@ -1,14 +1,9 @@
 {
-    "chatgpt-ulauncher-extension": {
-        [
-  {
-    "id": "com.github.corruto.ulauncher-chatgpt",
-    "url": "https://github.com/corruto/ulauncher-chatgpt"
+  "com.github.corruto.chatgpt-ulauncher-extension": {
+    "id": "com.github.corruto.chatgpt-ulauncher-extension",
+    "url": "https://github.com/corruto/chatgpt-ulauncher-extension",
+    "updated_at": "2025-06-01T23:58:00",
+    "last_commit": "HEAD",
+    "last_commit_time": "2025-06-01T23:57:00"
   }
-]
-
-        "updated_at": "2025-06-01T22:40:41.250353",
-        "last_commit": "initial",
-        "last_commit_time": "2025-06-01T22:40:00"
-    }
 }
