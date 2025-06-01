@@ -1,4 +1,5 @@
 {
+    "uuid": "com.github.corruto.chatgpt-ulauncher-extension",
     "name": "ChatGPT",
     "description": "Spørg ChatGPT direkte i Ulauncher",
     "developer_name": "Bruger",
@@ -8,5 +9,5 @@
     },
     "default_keyword": "c",
     "requirements": ["requests"],
-    "api_version": 2
+    "required_api_version": "2.0.0"
 }
